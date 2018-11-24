@@ -5,4 +5,6 @@
 ./lempo.rb TARGET_IP TARGET_USER TARGET_PASSWORD
 ```
 
+![PoC](https://github.com/MauroEldritch/lempo/blob/master/media/cve-2018-19466.png)
+
 Issued patched by the software authors @ portainer.io
