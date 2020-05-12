@@ -11,3 +11,9 @@ This exploit is a complement to my talk [Hacking Docker with PAZUZU](https://git
 Issued patched by the software authors @ portainer.io via [portainer/portainer#2488](https://github.com/portainer/portainer/pull/2488)
 
 [MITRE CVE Announcement](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19466)
+
+##Presentations
+
+|#| Date | Conference | Link to Video | Link to Slides |
+|---|---|---|---|---|
+|1| NOV-2018 | DEVFEST Siberia | TBA | https://drive.google.com/open?id=1uXFrLTIIdrypM4ECQxIYF1dz2iVf1OG6w09eB_KkFnA |
