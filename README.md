@@ -12,7 +12,7 @@ Issued patched by the software authors @ portainer.io via [portainer/portainer#2
 
 [MITRE CVE Announcement](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19466)
 
-##Presentations
+## Presentations
 
 |#| Date | Conference | Link to Video | Link to Slides |
 |---|---|---|---|---|
